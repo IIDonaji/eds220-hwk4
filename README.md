@@ -38,11 +38,13 @@ A key component of this analysis is the creation of false-color imagery for the 
 │   └── hwk4-task2-false-color-Medrano.ipynb
 ```
 # Data Access
-**Landsat 8 Imagery:** The Landsat data (landsat8-2025-02-23-palisades-eaton.nc) is not included in this repository. The data was retrieved through the EDS 220 course shared Google Drive folder.
-**Fire Perimeter Shapefiles:** The fire perimeter data is not included in this repository. Access the shapefiles from ArcGIS Hub:
-
+**Landsat 8 Imagery:** 
+The Landsat data (landsat8-2025-02-23-palisades-eaton.nc) is not included in this repository. The data was retrieved through the EDS 220 course shared Google Drive folder.
+**Fire Perimeter Shapefiles:**
+The fire perimeter data is not included in this repository. Access the shapefiles from ArcGIS Hub:
 Palisades and Eaton Dissolved Fire Perimeters: [LA County REST web](https://egis-lacounty.hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about)
 Download both shapefiles seperately and store them locally to reproduce the analysis.
+**EJI Data** 
 
 ## The follow packages were used in this analysis
 - `pandas` - Data manipulation and analysis
@@ -66,3 +68,4 @@ Palisades and Eaton Dissolved Fire Perimeters. (2025). Fire perimeter shapefiles
 
 U.S. Geological Survey. (2025). Landsat 8 Collection 2 Level-2 surface reflectance data [Satellite imagery dataset]. Microsoft Planetary Computer. https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2
 
+Centers for Disease Control and Prevention and Agency for Toxic Substances Disease Registry. [2024] Environmental Justice Index. Accessed [11/21/2025]. https://atsdr.cdc.gov/place-health/php/eji/eji-data-download.htm
